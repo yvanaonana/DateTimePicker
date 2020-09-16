@@ -1,0 +1,3 @@
+include ':DateTimePickerLibrary'
+include ':app'
+rootProject.name = "DateTimePicker"

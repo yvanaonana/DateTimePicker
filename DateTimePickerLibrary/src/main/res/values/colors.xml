@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_title_dialog_date_time">#FFFFFF</color>
+    <color name="colorPrimary">#D4E157</color>
+    <color name="colorAccent">#febf47</color>
+</resources>
